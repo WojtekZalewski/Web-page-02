@@ -1,0 +1,121 @@
+<<<<<<< HEAD
+#about {
+    height: 100vh;
+
+    header {
+        padding-top: 225px;
+        letter-spacing: 3px;
+        color: white;
+
+        h1 {
+            font-size: 8.0em;
+            font-weight: 100;
+
+            span {
+                text-transform: uppercase;
+                color: #24ff9a;
+                font-weight: 700;
+            }
+        }
+
+        .header-span {
+            padding-right: 25px;
+            font-size: 1.5em;
+            text-transform: uppercase;
+            color: rgba(255, 255, 255, 0.8);
+
+            a {
+                color: rgba(255, 255, 255, 0.8);
+            }
+
+            a:hover {
+                color: #24ff9a;
+                text-decoration: none;
+            }
+        }
+
+        .header-discription {
+            padding-top: 15px;
+            width: 600px;
+            font-size: 1.0em;
+        }
+
+        #social-header-row {
+            padding-top: 35px;
+            
+
+            .social-header {
+                margin-right: 25px;
+                a {
+                    color: white;
+                    font-size: 3em;
+                }
+
+                a:hover {
+                    color: #24ff9a;
+                }
+            }
+        }
+    }
+}
+=======
+#about {
+    height: 100vh;
+
+    header {
+        padding-top: 225px;
+        letter-spacing: 3px;
+        color: white;
+
+        h1 {
+            font-size: 8.0em;
+            font-weight: 100;
+
+            span {
+                text-transform: uppercase;
+                color: #24ff9a;
+                font-weight: 700;
+            }
+        }
+
+        .header-span {
+            padding-right: 25px;
+            font-size: 1.5em;
+            text-transform: uppercase;
+            color: rgba(255, 255, 255, 0.8);
+
+            a {
+                color: rgba(255, 255, 255, 0.8);
+            }
+
+            a:hover {
+                color: #24ff9a;
+                text-decoration: none;
+            }
+        }
+
+        .header-discription {
+            padding-top: 15px;
+            width: 600px;
+            font-size: 1.0em;
+        }
+
+        #social-header-row {
+            padding-top: 35px;
+            
+
+            .social-header {
+                margin-right: 25px;
+                a {
+                    color: white;
+                    font-size: 3em;
+                }
+
+                a:hover {
+                    color: #24ff9a;
+                }
+            }
+        }
+    }
+}
+>>>>>>> parent of 4e3331b... resolve problem

@@ -1,0 +1,79 @@
+<<<<<<< HEAD
+.nav {
+    width: 20%;
+    display: inline-block;
+    background-color: rgb(29, 29, 29);
+    height: 100vh;
+    position: fixed;
+
+    figure {
+        #logo {
+            width: 160px;
+            height: 160px;
+            border-radius: 50%;
+            border: 5px solid rgba(36, 255, 154, 0.2);
+            margin-left: auto;
+            margin-right: auto;
+            display: block;
+            margin-top: 35px;
+            margin-bottom: 45px;
+        }
+    }
+
+    .nav-link {
+        text-transform: uppercase;
+        font-size: 1.5em;
+        font-weight: 600;
+        letter-spacing: 1px;
+        color: rgba(255, 255, 255, 0.85);
+        text-align: center;
+    }
+
+    .nav-link:hover {
+        color: #24ff9a;
+    }
+
+    .nav-link:active {
+        color: #24ff9a;
+    }
+}
+=======
+.nav {
+    width: 20%;
+    display: inline-block;
+    background-color: rgb(29, 29, 29);
+    height: 100vh;
+    position: fixed;
+
+    figure {
+        #logo {
+            width: 160px;
+            height: 160px;
+            border-radius: 50%;
+            border: 5px solid rgba(36, 255, 154, 0.2);
+            margin-left: auto;
+            margin-right: auto;
+            display: block;
+            margin-top: 35px;
+            margin-bottom: 45px;
+        }
+    }
+
+    .nav-link {
+        text-transform: uppercase;
+        font-size: 1.5em;
+        font-weight: 600;
+        letter-spacing: 1px;
+        color: rgba(255, 255, 255, 0.85);
+        text-align: center;
+    }
+
+    .nav-link:hover {
+        color: #24ff9a;
+    }
+
+    .nav-link:active {
+        color: #24ff9a;
+    }
+}
+>>>>>>> parent of 4e3331b... resolve problem
