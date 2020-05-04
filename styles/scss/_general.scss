@@ -2,9 +2,9 @@ body {
     font-family: 'Saira Extra Condensed', sans-serif;
 
     #hero-image {
-        background: -webkit-linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../../img/hero_modern_cv.jpg') fixed center center;
-        background: -o-linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../../img/hero_modern_cv.jpg') fixed center center;
-        background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(47, 47, 47, 0.1)), url('../../img/hero_modern_cv.jpg') fixed center center;
+        background: -webkit-linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../../img/hero.jpg') fixed center center;
+        background: -o-linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../../img/hero.jpg') fixed center center;
+        background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(47, 47, 47, 0.1)), url('../../img/hero.jpg') fixed center center;
         background-size: cover;
         background-position: center;
         width: 80%;
@@ -51,14 +51,14 @@ body {
             letter-spacing: 1px;
             width: 610px;
         }
-        
+
         span.dates {
             color: #24ff9a;
             display: inline-block;
             font-size: 1.3em;
             letter-spacing: 1px;
         }
-        
+
         .end-section {
             height: 65px;
             border-bottom: 2px solid rgba(255, 255, 255, 0.83);
