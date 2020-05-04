@@ -2,9 +2,9 @@ body {
     font-family: 'Saira Extra Condensed', sans-serif;
 
     #hero-image {
-        background: -webkit-linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../img/hero_modern_cv.jpg') fixed center center;
-        background: -o-linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../img/hero_modern_cv.jpg') fixed center center;
-        background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(47, 47, 47, 0.1)), url('../img/hero_modern_cv.jpg') fixed center center;
+        background: -webkit-linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../../img/hero_modern_cv.jpg') fixed center center;
+        background: -o-linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../../img/hero_modern_cv.jpg') fixed center center;
+        background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(47, 47, 47, 0.1)), url('../../img/hero_modern_cv.jpg') fixed center center;
         background-size: cover;
         background-position: center;
         width: 80%;
