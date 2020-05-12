@@ -1,48 +1,59 @@
 #about {
   height: 100vh;
 }
+
 #about header {
   padding-top: 225px;
   letter-spacing: 3px;
   color: white;
 }
+
 #about header h1 {
   font-size: 8.0em;
   font-weight: 100;
 }
+
 #about header h1 span {
   text-transform: uppercase;
   color: #24ff9a;
   font-weight: 700;
 }
+
 #about header .header-span {
   padding-right: 25px;
   font-size: 1.5em;
   text-transform: uppercase;
   color: rgba(255, 255, 255, 0.8);
 }
+
 #about header .header-span a {
   color: rgba(255, 255, 255, 0.8);
 }
+
 #about header .header-span a:hover {
   color: #24ff9a;
   text-decoration: none;
 }
+
 #about header .header-discription {
   padding-top: 15px;
   width: 600px;
   font-size: 1.0em;
 }
+
 #about header #social-header-row {
   padding-top: 35px;
 }
+
 #about header #social-header-row .social-header {
   margin-right: 25px;
 }
+
 #about header #social-header-row .social-header a {
   color: white;
   font-size: 3em;
 }
+
 #about header #social-header-row .social-header a:hover {
   color: #24ff9a;
 }
@@ -57,6 +68,7 @@ footer {
   color: rgba(255, 255, 255, 0.83);
   font-size: 1em;
 }
+
 footer .footer-span {
   margin-left: 10px;
 }
@@ -64,6 +76,7 @@ footer .footer-span {
 body {
   font-family: 'Saira Extra Condensed', sans-serif;
 }
+
 body #hero-image {
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.1)), to(rgba(47, 47, 47, 0.1))), url("../../img/hero.jpg") fixed center center;
   background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(47, 47, 47, 0.1)), url("../../img/hero.jpg") fixed center center;
@@ -75,10 +88,12 @@ body #hero-image {
   display: inline-block;
   float: right;
 }
+
 body section {
   padding-left: 170px;
   color: white;
 }
+
 body section h2 {
   text-transform: uppercase;
   font-size: 4em;
@@ -87,6 +102,7 @@ body section h2 {
   color: #24ff9a;
   padding-bottom: 35px;
 }
+
 body section h3 {
   text-transform: uppercase;
   font-size: 2.2em;
@@ -96,12 +112,14 @@ body section h3 {
   width: 650px;
   display: inline-block;
 }
+
 body section h4 {
   letter-spacing: 1px;
   color: rgba(255, 255, 255, 0.63);
   text-transform: uppercase;
   font-size: 1.3em;
 }
+
 body section p {
   padding-top: 15px;
   font-weight: 100;
@@ -109,12 +127,14 @@ body section p {
   letter-spacing: 1px;
   width: 610px;
 }
+
 body section span.dates {
   color: #24ff9a;
   display: inline-block;
   font-size: 1.3em;
   letter-spacing: 1px;
 }
+
 body section .end-section {
   height: 65px;
   border-bottom: 2px solid rgba(255, 255, 255, 0.83);
@@ -132,6 +152,7 @@ body section .end-section {
   height: 100vh;
   position: fixed;
 }
+
 .nav figure #logo {
   width: 160px;
   height: 160px;
@@ -143,6 +164,7 @@ body section .end-section {
   margin-top: 35px;
   margin-bottom: 45px;
 }
+
 .nav .nav-link {
   text-transform: uppercase;
   font-size: 1.5em;
@@ -151,9 +173,11 @@ body section .end-section {
   color: rgba(255, 255, 255, 0.85);
   text-align: center;
 }
+
 .nav .nav-link:hover {
   color: #24ff9a;
 }
+
 .nav .nav-link:active {
   color: #24ff9a;
 }
@@ -163,6 +187,7 @@ body section .end-section {
   color: rgba(255, 255, 255, 0.74);
   font-size: 1.1em;
 }
+
 #projects ul li a:hover,
 #projects p.header-list li a:hover {
   color: #24ff9a;
@@ -173,6 +198,7 @@ body section .end-section {
   margin-top: 35px;
   margin-bottom: 22px;
 }
+
 .skills-icons .fab {
   font-size: 3.5em;
   margin-right: 12px;
@@ -186,6 +212,7 @@ p.header-list {
   letter-spacing: 1px;
   list-style-type: disc;
 }
+
 ul li,
 p.header-list li {
   text-transform: none;
